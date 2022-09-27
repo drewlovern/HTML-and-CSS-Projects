@@ -1,3 +1,5 @@
 This is my text file
 This is another line of my text file
+This is a line of text for myFirstBranch
 Adding another mod to file 1
+adding merger confl
